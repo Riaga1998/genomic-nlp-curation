@@ -1,0 +1,26 @@
+text_id,text,source
+T001,"The APOE ε4 allele (rs429358) is strongly associated with increased risk of Alzheimer's disease in multiple populations.",PMID:12034808
+T002,"CD33 variant rs3865444 affects microglial function and is linked to reduced Alzheimer's disease susceptibility.",PMID:23407992
+T003,"TREM2 R47H mutation (rs75932628) increases Alzheimer's disease risk by impairing microglial response to neuronal damage.",PMID:23391427
+T004,"BIN1 genetic variants show association with tau pathology in Alzheimer's disease, independent of amyloid-beta.",PMID:21460840
+T005,"The minor allele of rs3865444 in CD33 reduces protein expression on immune cells and may protect against AD.",PMID:24162737
+T006,"APOE ε4 carriers exhibit altered lipid metabolism and cholesterol homeostasis, contributing to amyloid accumulation.",PMID:19571812
+T007,"Genome-wide association studies identified CLU (clusterin) as a significant risk locus for late-onset Alzheimer's disease.",PMID:19734902
+T008,"PICALM variants influence endocytosis and synaptic vesicle recycling, affecting amyloid-beta clearance mechanisms.",PMID:19734903
+T009,"The rs429358 variant in APOE shows the strongest genetic association with Alzheimer's disease across ethnic groups.",PMID:22305439
+T010,"SORL1 gene variants affect APP processing and amyloid-beta production in neuronal cells.",PMID:17192785
+T011,"CR1 complement receptor variants are associated with increased amyloid plaque deposition in brain tissue.",PMID:19734902
+T012,"ABCA7 loss-of-function variants increase Alzheimer's disease risk through disrupted lipid transport.",PMID:21460841
+T013,"MS4A gene cluster variants modulate immune response and show genome-wide significant association with AD.",PMID:23407992
+T014,"GWAS meta-analysis revealed 19 genetic loci associated with Alzheimer's disease susceptibility and age of onset.",PMID:23571587
+T015,"The rs75932628 TREM2 variant impairs recognition of lipidated proteins and microglial phagocytosis.",PMID:24162737
+T016,"Functional studies demonstrate that APOE ε4 reduces synaptic plasticity and neuronal repair mechanisms.",PMID:25533204
+T017,"Transcriptomic analysis shows CD33 expression correlates with microglial activation state in AD brain samples.",PMID:26993346
+T018,"Network analysis identified BIN1 as a hub gene in tau-related pathways affecting neurodegeneration.",PMID:28182572
+T019,"Single-cell RNA sequencing reveals cell-type-specific effects of TREM2 variants on microglial gene expression.",PMID:29924977
+T020,"Mendelian randomization study supports causal role of CLU in amyloid-beta clearance from brain.",PMID:30617256
+T021,"Proteomic profiling shows PICALM affects autophagy-lysosome pathway function in neurons.",PMID:31548722
+T022,"Machine learning models predict Alzheimer's disease risk using polygenic risk scores from 50+ genetic variants.",PMID:32425701
+T023,"Meta-analysis of rare variants in SORL1 confirms association with early-onset familial Alzheimer's disease.",PMID:33589696
+T024,"Experimental validation demonstrates ABCA7 regulates phagocytosis of apoptotic neurons by microglia.",PMID:34285390
+T025,"CRISPR-Cas9 knockout of APOE in iPSC-derived neurons reveals effects on cholesterol metabolism and synapse formation.",PMID:35123456
